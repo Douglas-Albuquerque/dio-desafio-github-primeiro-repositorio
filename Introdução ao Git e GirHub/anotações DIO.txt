@@ -1,0 +1,17 @@
+blob e um bloco basico do composição
+
+tree apontanto e armazenando tipos de nlobs diferentes, elaas tambem apontam para outras arvores
+
+sha1 cria uma chave criptografada de identificação de 40 caracteres de um arquivo
+
+comit é o objeto que vai dar sentido a todos os arquivos do git. ele aponta pra tudo
+
+chaves ssh e tokens
+
+git init - para iniciar o git na pasta
+git add *
+para adicionar os arquivos no git e mudar o status oara staged
+git commit -m > para comitar os arquivos
+git remote add origin "link do github" > adicionar o repositorio online
+git push origin master > para empurrar os arquivos para o github
+git pull origin > para puxar arquivos do repositorio no gitHub
